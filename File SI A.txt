@@ -1,2 +1,6 @@
 SI A Nulis
+<<<<<<< HEAD
 SI B NULIS 1
+=======
+SI A NULIS 2
+>>>>>>> e8c84f0e3029d6078e491f1fe5a849c543eef743
