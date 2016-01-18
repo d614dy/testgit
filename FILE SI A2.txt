@@ -1,2 +1,1 @@
-1.	SI A
-2.	SI B Ke 2
+1.	SI A 
